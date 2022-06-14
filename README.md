@@ -1,6 +1,6 @@
-### Hi there, I'm Matt 👋
+### Hi there, I'm Matt Lindly 👋
 
-I'm an experienced Software Engineer specialized in the realm of UI/UX.
+I am an experienced Software Engineer turned Engineering Manager passionate about the bridge between education and technology!
 
 - 👔 Right now I'm helping to bridge the reading gap through technology at [BookNook](https://www.booknooklearning.com/).
 - 🔭 I’m currently working on building applications with React, React Native and Dart & Flutter.
